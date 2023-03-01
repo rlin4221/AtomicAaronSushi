@@ -1,7 +1,7 @@
 {
 	"name": "react-website-tut",
 	"version": "0.1.0",
-	"homepage": "https://rlin4221.github.io/react-gh-pages",
+	"homepage": "https://rlin4221.github.io/AtomicAaronSushi",
 	"private": true,
 	"dependencies": {
 		"@material-ui/core": "^4.11.4",
