@@ -1,0 +1,9 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.maps {
+  height: 100px;
+  width: 100px;
+}
